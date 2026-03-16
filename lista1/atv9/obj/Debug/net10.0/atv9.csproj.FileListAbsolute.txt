@@ -1,0 +1,14 @@
+D:\atp\atv9\bin\Debug\net10.0\atv9.exe
+D:\atp\atv9\bin\Debug\net10.0\atv9.deps.json
+D:\atp\atv9\bin\Debug\net10.0\atv9.runtimeconfig.json
+D:\atp\atv9\bin\Debug\net10.0\atv9.dll
+D:\atp\atv9\bin\Debug\net10.0\atv9.pdb
+D:\atp\atv9\obj\Debug\net10.0\atv9.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\atv9\obj\Debug\net10.0\atv9.AssemblyInfoInputs.cache
+D:\atp\atv9\obj\Debug\net10.0\atv9.AssemblyInfo.cs
+D:\atp\atv9\obj\Debug\net10.0\atv9.csproj.CoreCompileInputs.cache
+D:\atp\atv9\obj\Debug\net10.0\atv9.dll
+D:\atp\atv9\obj\Debug\net10.0\refint\atv9.dll
+D:\atp\atv9\obj\Debug\net10.0\atv9.pdb
+D:\atp\atv9\obj\Debug\net10.0\atv9.genruntimeconfig.cache
+D:\atp\atv9\obj\Debug\net10.0\ref\atv9.dll

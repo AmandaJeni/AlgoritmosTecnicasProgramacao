@@ -1,0 +1,14 @@
+D:\atp\atv13\bin\Debug\net10.0\atv13.exe
+D:\atp\atv13\bin\Debug\net10.0\atv13.deps.json
+D:\atp\atv13\bin\Debug\net10.0\atv13.runtimeconfig.json
+D:\atp\atv13\bin\Debug\net10.0\atv13.dll
+D:\atp\atv13\bin\Debug\net10.0\atv13.pdb
+D:\atp\atv13\obj\Debug\net10.0\atv13.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\atv13\obj\Debug\net10.0\atv13.AssemblyInfoInputs.cache
+D:\atp\atv13\obj\Debug\net10.0\atv13.AssemblyInfo.cs
+D:\atp\atv13\obj\Debug\net10.0\atv13.csproj.CoreCompileInputs.cache
+D:\atp\atv13\obj\Debug\net10.0\atv13.dll
+D:\atp\atv13\obj\Debug\net10.0\refint\atv13.dll
+D:\atp\atv13\obj\Debug\net10.0\atv13.pdb
+D:\atp\atv13\obj\Debug\net10.0\atv13.genruntimeconfig.cache
+D:\atp\atv13\obj\Debug\net10.0\ref\atv13.dll

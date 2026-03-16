@@ -1,0 +1,14 @@
+D:\atp\atv10\bin\Debug\net10.0\atv10.exe
+D:\atp\atv10\bin\Debug\net10.0\atv10.deps.json
+D:\atp\atv10\bin\Debug\net10.0\atv10.runtimeconfig.json
+D:\atp\atv10\bin\Debug\net10.0\atv10.dll
+D:\atp\atv10\bin\Debug\net10.0\atv10.pdb
+D:\atp\atv10\obj\Debug\net10.0\atv10.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\atv10\obj\Debug\net10.0\atv10.AssemblyInfoInputs.cache
+D:\atp\atv10\obj\Debug\net10.0\atv10.AssemblyInfo.cs
+D:\atp\atv10\obj\Debug\net10.0\atv10.csproj.CoreCompileInputs.cache
+D:\atp\atv10\obj\Debug\net10.0\atv10.dll
+D:\atp\atv10\obj\Debug\net10.0\refint\atv10.dll
+D:\atp\atv10\obj\Debug\net10.0\atv10.pdb
+D:\atp\atv10\obj\Debug\net10.0\atv10.genruntimeconfig.cache
+D:\atp\atv10\obj\Debug\net10.0\ref\atv10.dll

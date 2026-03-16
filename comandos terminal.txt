@@ -1,0 +1,17 @@
+comando para criar o program console.
+
+dotnet new console --use-program-main
+
+diretorio
+
+ D:\atp\lista2\
+ 
+ para iniciar o console
+ 
+ dotnet run
+ 
+ Pulnaod linha no codigo \n
+ 
+ 
+ 
+ https://www.w3schools.com/cs/cs_strings.php

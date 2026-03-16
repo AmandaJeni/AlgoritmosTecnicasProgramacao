@@ -1,0 +1,14 @@
+D:\atp\atv7\bin\Debug\net10.0\atv7.exe
+D:\atp\atv7\bin\Debug\net10.0\atv7.deps.json
+D:\atp\atv7\bin\Debug\net10.0\atv7.runtimeconfig.json
+D:\atp\atv7\bin\Debug\net10.0\atv7.dll
+D:\atp\atv7\bin\Debug\net10.0\atv7.pdb
+D:\atp\atv7\obj\Debug\net10.0\atv7.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\atv7\obj\Debug\net10.0\atv7.AssemblyInfoInputs.cache
+D:\atp\atv7\obj\Debug\net10.0\atv7.AssemblyInfo.cs
+D:\atp\atv7\obj\Debug\net10.0\atv7.csproj.CoreCompileInputs.cache
+D:\atp\atv7\obj\Debug\net10.0\atv7.dll
+D:\atp\atv7\obj\Debug\net10.0\refint\atv7.dll
+D:\atp\atv7\obj\Debug\net10.0\atv7.pdb
+D:\atp\atv7\obj\Debug\net10.0\atv7.genruntimeconfig.cache
+D:\atp\atv7\obj\Debug\net10.0\ref\atv7.dll

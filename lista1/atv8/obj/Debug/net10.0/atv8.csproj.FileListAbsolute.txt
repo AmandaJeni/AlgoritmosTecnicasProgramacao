@@ -1,0 +1,14 @@
+D:\atp\atv8\bin\Debug\net10.0\atv8.exe
+D:\atp\atv8\bin\Debug\net10.0\atv8.deps.json
+D:\atp\atv8\bin\Debug\net10.0\atv8.runtimeconfig.json
+D:\atp\atv8\bin\Debug\net10.0\atv8.dll
+D:\atp\atv8\bin\Debug\net10.0\atv8.pdb
+D:\atp\atv8\obj\Debug\net10.0\atv8.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\atv8\obj\Debug\net10.0\atv8.AssemblyInfoInputs.cache
+D:\atp\atv8\obj\Debug\net10.0\atv8.AssemblyInfo.cs
+D:\atp\atv8\obj\Debug\net10.0\atv8.csproj.CoreCompileInputs.cache
+D:\atp\atv8\obj\Debug\net10.0\atv8.dll
+D:\atp\atv8\obj\Debug\net10.0\refint\atv8.dll
+D:\atp\atv8\obj\Debug\net10.0\atv8.pdb
+D:\atp\atv8\obj\Debug\net10.0\atv8.genruntimeconfig.cache
+D:\atp\atv8\obj\Debug\net10.0\ref\atv8.dll

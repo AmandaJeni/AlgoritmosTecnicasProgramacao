@@ -1,0 +1,14 @@
+D:\atp\obj\Debug\net10.0\atp.GeneratedMSBuildEditorConfig.editorconfig
+D:\atp\obj\Debug\net10.0\atp.AssemblyInfoInputs.cache
+D:\atp\obj\Debug\net10.0\atp.AssemblyInfo.cs
+D:\atp\obj\Debug\net10.0\atp.csproj.CoreCompileInputs.cache
+D:\atp\bin\Debug\net10.0\atp.exe
+D:\atp\bin\Debug\net10.0\atp.deps.json
+D:\atp\bin\Debug\net10.0\atp.runtimeconfig.json
+D:\atp\bin\Debug\net10.0\atp.dll
+D:\atp\bin\Debug\net10.0\atp.pdb
+D:\atp\obj\Debug\net10.0\atp.dll
+D:\atp\obj\Debug\net10.0\refint\atp.dll
+D:\atp\obj\Debug\net10.0\atp.pdb
+D:\atp\obj\Debug\net10.0\atp.genruntimeconfig.cache
+D:\atp\obj\Debug\net10.0\ref\atp.dll
