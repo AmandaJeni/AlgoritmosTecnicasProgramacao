@@ -1,4 +1,6 @@
-﻿namespace atv3;
+﻿using System.Formats.Asn1;
+
+namespace atv3;
 
 /*
 Escreva um programa que leia a idade de uma pessoa, o tipo de habilitação que ela possui e o tempo que ela possui carteira de habilitação. 
@@ -24,21 +26,63 @@ class Program
         Console.WriteLine("Informe sua idade: ");
         int idade = int.Parse(Console.ReadLine());
 
+/*
         //Recebendo se ja possui habilitação
-        Console.WriteLine("Você ja possui habilitação?\n");
-        string habilitacao = Console.ReadLine().ToUpper();
+        Console.WriteLine("Você ja possui habilitação: ");
+        string habilitacao = (Console.ReadLine().ToUpper());
 
+        //especificando os tipos de habilitação
+        Console.WriteLine("Especifique qual carteira você possui, sendo Carteira:\n A (motos/triciclos)\n B (carros)\n C (cargas pesadas)\n D (passageiros > 8 lugares)\n E (veículos articulados\n");
+        string tHabilitacao = Console.ReadLine().ToUpper();
+
+        //Tempo de Habilitação.
+        Console.WriteLine("Informe quantos anos você possui a habilitação: ");
+        int tempoHabilitacao = int.Parse(Console.ReadLine());
+        */
         
-
-        //Tratativa se não possuir habilitação
-        if((habilitacao != "SIM" || habilitacao != "S") && (idade >= 21) )
+        if(idade >= 21)
         {
-            //especificando os tipos de habilitação
-            Console.WriteLine("Especifique qual carteira você possui, sendo Carteira:\n A (motos/triciclos)\n B (carros)\n C (cargas pesadas)\n D (passageiros > 8 lugares)\n E (veículos articulados\n");
-            string tHabilitacao = Console.ReadLine();
+            //Recebendo se ja possui habilitação
+            Console.WriteLine("Você ja possui habilitação: ");
+            string habilitacao = (Console.ReadLine().ToUpper());
 
+            if(habilitacao == "SIM")
+            {
+                //especificando os tipos de habilitação
+                Console.WriteLine("Especifique qual carteira você possui, sendo Carteira:\n A (motos/triciclos)\n B (carros)\n C (cargas pesadas)\n D (passageiros > 8 lugares)\n E (veículos articulados\n");
+                string tHabilitacao = Console.ReadLine().ToUpper();
 
+                //Tempo de Habilitação.
+                Console.WriteLine("Informe quantos anos você possui a habilitação: ");
+                int tempoHabilitacao = int.Parse(Console.ReadLine());
 
+                if(tHabilitacao == "B" && tempoHabilitacao >= 2)
+                {
+                    Console.WriteLine("Você possui os requisitos para habilitação tipo D.");     
+                }
+
+                else if(tHabilitacao == "C" && tempoHabilitacao >= 1)
+                {
+                    Console.WriteLine("Você possui os requisitos para habilitação tipo D."); 
+                }
+
+                else
+                {   
+                Console.WriteLine("Você não possui os requisitos mínimos para a habilitação D, pois o tipo de habilitação é diferente de B ou C.");
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("Precisa ter habilitação para tirar a habilitação tipo D");
+            }
+             
+            
+            
+        }
+        else
+        {
+            Console.WriteLine("Você não possui os requisitos para a habilitação D, pois não tem a idade mínima. \n");        
         }
         
 

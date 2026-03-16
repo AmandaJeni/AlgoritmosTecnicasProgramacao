@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1620094\\.nuget\\packages\\": {}
+    "C:\\Users\\servi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\atp\\lista2\\atv3\\atv3.csproj",
+      "projectUniqueName": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\AlgoritmosTecnicasProgramacao\\lista2\\atv3\\atv3.csproj",
       "projectName": "atv3",
-      "projectPath": "D:\\atp\\lista2\\atv3\\atv3.csproj",
-      "packagesPath": "C:\\Users\\1620094\\.nuget\\packages\\",
-      "outputPath": "D:\\atp\\lista2\\atv3\\obj\\",
+      "projectPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\AlgoritmosTecnicasProgramacao\\lista2\\atv3\\atv3.csproj",
+      "packagesPath": "C:\\Users\\servi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\servi\\OneDrive\\Documentos\\GitHub\\AlgoritmosTecnicasProgramacao\\lista2\\atv3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1620094\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\servi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
