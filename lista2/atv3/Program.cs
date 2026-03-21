@@ -49,7 +49,7 @@ class Program
             if(habilitacao == "SIM")
             {
                 //especificando os tipos de habilitação
-                Console.WriteLine("Especifique qual carteira você possui, sendo Carteira:\n A (motos/triciclos)\n B (carros)\n C (cargas pesadas)\n D (passageiros > 8 lugares)\n E (veículos articulados\n");
+                Console.WriteLine("Especifique qual carteira você possui : \n A (motos/triciclos)\n B (carros)\n C (cargas pesadas)\n D (passageiros > 8 lugares)\n E (veículos articulados\n");
                 string tHabilitacao = Console.ReadLine().ToUpper();
 
                 //Tempo de Habilitação.
