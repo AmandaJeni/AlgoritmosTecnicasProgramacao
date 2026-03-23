@@ -30,7 +30,7 @@ class Program
 
          else if(idade >= 14 && idade <= 17)
         {
-            Console.WriteLine("A sua categoria como nadador é Juvenil A.");
+            Console.WriteLine("A sua categoria como nadador é Juvenil B.");
         }
 
         else

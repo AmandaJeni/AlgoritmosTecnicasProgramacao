@@ -1,0 +1,15 @@
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.AssemblyInfoInputs.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.AssemblyInfo.cs
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.csproj.CoreCompileInputs.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.sourcelink.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\bin\Debug\net10.0\atv7.exe
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\bin\Debug\net10.0\atv7.deps.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\bin\Debug\net10.0\atv7.runtimeconfig.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\bin\Debug\net10.0\atv7.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\bin\Debug\net10.0\atv7.pdb
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\refint\atv7.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.pdb
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\atv7.genruntimeconfig.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv7\obj\Debug\net10.0\ref\atv7.dll

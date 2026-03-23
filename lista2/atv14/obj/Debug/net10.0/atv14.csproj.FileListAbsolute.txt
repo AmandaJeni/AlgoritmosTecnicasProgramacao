@@ -1,0 +1,15 @@
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\bin\Debug\net10.0\atv14.exe
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\bin\Debug\net10.0\atv14.deps.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\bin\Debug\net10.0\atv14.runtimeconfig.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\bin\Debug\net10.0\atv14.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\bin\Debug\net10.0\atv14.pdb
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.AssemblyInfoInputs.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.AssemblyInfo.cs
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.csproj.CoreCompileInputs.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.sourcelink.json
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\refint\atv14.dll
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.pdb
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\atv14.genruntimeconfig.cache
+C:\Users\servi\OneDrive\Documentos\GitHub\AlgoritmosTecnicasProgramacao\lista2\atv14\obj\Debug\net10.0\ref\atv14.dll
